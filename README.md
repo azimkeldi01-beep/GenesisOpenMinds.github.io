@@ -1,2 +1,0 @@
-# GenesisOpenMinds.github.io
-OpenMinds
